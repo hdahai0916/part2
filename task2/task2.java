@@ -2,7 +2,7 @@ package part2.task2;
 
 public class task2 {
     public static void main(String[] args) {
-        int n=2;
+        int n=7;
         print(n);
         return ;
     }
